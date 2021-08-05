@@ -1,5 +1,5 @@
 import java.awt.*;
-import javax.swing.*;
+//import javax.swing.*;
 /**
  * Class that creates a bar object, to feed into a Rectangle object
  * 

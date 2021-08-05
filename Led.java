@@ -1,5 +1,5 @@
 import java.awt.*;
-import javax.swing.*;
+//import javax.swing.*;
 /**
  * Class that creates a single LED digit and contains methods to changle its value
  * 
